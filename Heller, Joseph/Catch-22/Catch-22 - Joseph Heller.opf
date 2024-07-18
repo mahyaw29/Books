@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4073864-251b-45f5-823b-4ce24a2a3275</dc:identifier>
+        <dc:title>Catch-22</dc:title>
+        <dc:creator opf:file-as="Heller, Joseph" opf:role="aut">Joseph Heller</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;Catch-22&lt;/em&gt; is like no other novel. It is one of the funniest books ever written, a keystone work in American literature, and even added a new term to the dictionary. &lt;/p&gt;
+&lt;p&gt;At the heart of &lt;em&gt;Catch-22&lt;/em&gt; resides the incomparable, malingering bombardier, Yossarian, a hero endlessly inventive in his schemes to save his skin from the horrible chances of war. His efforts are perfectly understandable because as he furiously scrambles, thousands of people he hasn't even met are trying to kill him. His problem is Colonel Cathcart, who keeps raising the number of missions the men must fly to complete their service. Yet if Yossarian makes any attempts to excuse himself from the perilous missions that he is committed to flying, he is trapped by the Great Loyalty Oath Crusade, the hilariously sinister bureaucratic rule from which the book takes its title: a man is considered insane if he willingly continues to fly dangerous combat missions, but if he makes the necessary formal request to be relieved of such missions, the very act of making the request proves that he is sane and therefore ineligible to be relieved. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Catch-22&lt;/em&gt; is a microcosm of the twentieth-century world as it might look to some one dangerously sane -- a masterpiece of our time.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Simon &amp; Schuster Paperbacks</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780684833392</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B001Q3KM9E</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">kQ4oAQAAMAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>20th Century</dc:subject>
+        <dc:subject>World War II</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>War &amp; Military</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <meta name="calibre:series" content="Catch-22 Series"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2024-07-18T17:49:30.449819+00:00"/>
+        <meta name="calibre:title_sort" content="Catch-22"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Catch-22 - Joseph Heller.jpg"/>
+    </guide>
+</package>

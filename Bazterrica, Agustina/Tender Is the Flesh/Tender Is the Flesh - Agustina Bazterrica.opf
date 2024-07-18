@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba760c51-279e-4a9a-86bf-2702f0839005</dc:identifier>
+        <dc:title>Tender Is the Flesh</dc:title>
+        <dc:creator opf:file-as="Bazterrica, Agustina" opf:role="aut">Agustina Bazterrica</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;If everyone was eating human meat, would you? &lt;/p&gt;
+&lt;p&gt;'HIDEOUS, BOLD, UNFORGETTABLE' - i-D MAGAZINE &lt;/p&gt;
+&lt;p&gt;'A THRILLING DYSTOPIA EVERYONE SHOULD READ' - DAZED &lt;/p&gt;
+&lt;p&gt;'GUT-CHURNING, BRILLIANTLY REALISED' - DAILY MAIL&lt;/p&gt;
+&lt;p&gt;Marcos is in the business of slaughtering humans - only no one calls them that. He works with numbers, consignments, processing. One day, he's given a specimen of the finest quality. He leaves her tied up in an outhouse, a problem to be disposed of later. But she haunts Marcos. Her trembling body, and watchful gaze, seem to understand. And soon, he becomes tortured by what has been lost - and what might still be saved...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Pushkin Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781782275589</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">XaPGDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ebe98fae-a85a-486f-8745-cc1df02ad6cc</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Dystopian</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta name="calibre:timestamp" content="2024-07-18T07:04:45+00:00"/>
+        <meta name="calibre:title_sort" content="Tender Is the Flesh"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Tender Is the Flesh - Agustina Bazterrica.jpg"/>
+    </guide>
+</package>
